@@ -6,3 +6,9 @@ problem2: problem2.c
 
 problem3: problem3.c
 	gcc -Wall problem3.c -o problem3
+
+problem4: problem4.c
+	gcc -Wall problem4.c -o problem4
+
+problem5: problem5.c
+	gcc -Wall problem5.c -o problem5
